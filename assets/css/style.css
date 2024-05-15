@@ -1,7 +1,7 @@
 :root {
 
-    --bg1: #7c7477;
-    --bg2: rgb(44, 42, 42);
+    --bg1: #dfacbd;
+    --bg2: rgb(200, 221, 213);
     --body: rgb(95, 86, 86):var(--bg1);
     --brand: #F2B03B;
     --white: rgb (156, 154, 154);
@@ -21,7 +21,7 @@ a {
 
 #banner {
 
-    background: linear-gradient(to right, hsla(0, 4%, 17%, 0.856), rgba(43, 39, 39, 0.315)),
+    background: linear-gradient(to right, hsla(0, 1%, 42%, 0), rgba(27, 27, 27, 0.945)),
      url(https://th.bing.com/th/id/R.40028b0a8a044177c967e9aba3781703?rik=XizNvH52yJPAHA&riu=http%3a%2f%2fcouturepictures.com%2fwp-content%2fuploads%2f2015%2f03%2fnike-2.jpeg&ehk=buDc5IJ77OALRPJQ8PLlmzeEbYcXDRYvy4v5LXZzgC0%3d&risl=&pid=ImgRaw&r=0);
     height: 100vh;
     background-size:cover ;
@@ -94,7 +94,7 @@ section
     /* parallex effect */
     background-attachment: fixed;
     /* parallex effect / to remove to effect set to normal */
-    background-image: linear-gradient(to right, hsla(0, 4%, 17%, 0.856), rgba(43, 39, 39, 0.315)),
+    background-image: linear-gradient(to right, hsla(320, 40%, 65%, 0.856), rgba(194, 44, 107, 0.377)),
 url(https://th.bing.com/th/id/R.40028b0a8a044177c967e9aba3781703?rik=XizNvH52yJPAHA&riu=http%3a%2f%2fcouturepictures.com%2fwp-content%2fuploads%2f2015%2f03%2fnike-2.jpeg&ehk=buDc5IJ77OALRPJQ8PLlmzeEbYcXDRYvy4v5LXZzgC0%3d&risl=&pid=ImgRaw&r=0);
     min-height: 70vh;
 }
